@@ -75,3 +75,4 @@ public class Guide {
      *  than fail.
      */
 }
+//i have read through this lab and observed the successful results
